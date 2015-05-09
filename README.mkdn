@@ -1,7 +1,9 @@
 EN CONSTRUCCION
 
 Iniciando repo
+
 repo init -u git://github.com/SlimDarkness/platform_manifest.git -b lp5.1
 
 Sincronizando
+
 repo sync
